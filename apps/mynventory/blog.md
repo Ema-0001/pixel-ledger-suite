@@ -28,6 +28,6 @@ For me, that is mettersi in gioco. Building my next chapter, and being willing t
 
 [Explore the ownership views](product-details.md) · [Read my internal review statement](trust-details.md)
 
-[Leave review comments](README.md#submit) · [Back to MYNVENTORY](README.md)
+[Back to MYNVENTORY](README.md)
 
 [Back to MYNVENTORY](README.md) · [Google Play for Android](https://play.google.com/store/apps/details?id=cz.prazskyridic.mynventory)
