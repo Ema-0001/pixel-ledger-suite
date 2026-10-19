@@ -6,6 +6,6 @@ The existing app artwork presents these four perspectives together. Explore the 
 
 [Read the supporting trust details](trust-details.md)
 
-[Leave review comments](README.md#submit) · [Back to MYNVENTORY](README.md)
+[Back to MYNVENTORY](README.md)
 
 [Back to MYNVENTORY](README.md) · [Google Play for Android](https://play.google.com/store/apps/details?id=cz.prazskyridic.mynventory)
