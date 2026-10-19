@@ -10,11 +10,9 @@ The story behind what you own: belongings, their value, their documents and the 
 
 ![MYNVENTORY feature overview](assets/play-store/features-overview-en-1080x1920.png)
 
-[My story](blog.md) · [Product views](product-details.md) · [Visual guide](visual-guide.md) · [Developer review](trust-details.md) · [Confirmations](control-details.md) · [Sources](sources.md)
+[My story](#building-my-next-chapter) · [Product views](product-details.md) · [Visual guide](visual-guide.md) · [Developer review](trust-details.md) · [Confirmations](control-details.md) · [Sources](sources.md)
 
 <a id="visual-01"></a>
-
-01 / MYNVENTORY
 
 ## A clearer view of what you own.
 
@@ -24,8 +22,6 @@ The ownership overview brings items, value and protection into one view.
 
 <a id="visual-02"></a>
 
-02 / MYNVENTORY
-
 ## Start with the belonging.
 
 A visual inventory gives each item a recognisable place.
@@ -33,8 +29,6 @@ A visual inventory gives each item a recognisable place.
 [![MYNVENTORY store graphic: Start with the belonging.](assets/play-store/02-inventory.png)](assets/play-store/02-inventory.png)
 
 <a id="visual-03"></a>
-
-03 / MYNVENTORY
 
 ## Keep value in context.
 
@@ -44,8 +38,6 @@ Explore the item details and value view shown in the store artwork.
 
 <a id="visual-04"></a>
 
-04 / MYNVENTORY
-
 ## Keep the proof close.
 
 Receipts and supporting documents belong in the ownership story.
@@ -54,8 +46,6 @@ Receipts and supporting documents belong in the ownership story.
 
 <a id="visual-05"></a>
 
-05 / MYNVENTORY
-
 ## Give important dates a place.
 
 Dates and warranties bring a timeline to the things you own.
@@ -63,8 +53,6 @@ Dates and warranties bring a timeline to the things you own.
 [![MYNVENTORY store graphic: Give important dates a place.](assets/play-store/05-calendar.png)](assets/play-store/05-calendar.png)
 
 <a id="visual-06"></a>
-
-06 / MYNVENTORY
 
 ## Make progress visible.
 
@@ -76,7 +64,7 @@ The achievements screen is another part of the documented app experience.
 
 ![MYNVENTORY purpose layers](campaign-design/purpose-layers.svg)
 
-# Building my next chapter
+## Building my next chapter
 
 BY EMANUELE MENDOLA
 
@@ -86,7 +74,7 @@ With generative AI advancing so quickly, I wanted to get involved through someth
 
 MYNVENTORY is part of that next chapter.
 
-## THE INFORMATION AROUND A BELONGING
+### The information around a belonging
 
 A camera is more than an item on a shelf. It has a purchase behind it, documents that may matter later, a value and perhaps a warranty date to remember.
 
@@ -94,7 +82,7 @@ The same can be true of headphones, a laptop or something else we use every day.
 
 That is the everyday context MYNVENTORY brings into focus: belongings and the information around them. The product views here show that idea through inventory, documents, value and dates.
 
-## SOMETHING I CAN PUT MY NAME TO
+### Something I can put my name to
 
 This project brings my different hats together. My background is part of it, and so is the willingness to become a learner again.
 
@@ -106,27 +94,7 @@ For me, that is mettersi in gioco. Building my next chapter, and being willing t
 
 [Explore the ownership views](product-details.md) · [Read my internal review statement](trust-details.md)
 
-[Back to MYNVENTORY](README.md)
-
-# A visual guide to ownership
-
-The app story is easiest to understand through the item, its information and the dates around it.
-
-![MYNVENTORY inventory artwork](assets/play-store/02-inventory.png)
-
-[The belonging](README.md#visual-02)
-
-![MYNVENTORY supporting documents artwork](assets/play-store/04-documents.png)
-
-[The supporting information](README.md#visual-04)
-
-![Four useful perspectives on a belonging](campaign-design/purpose-layers.svg)
-
-[Internal testing and developer review](trust-details.md) · [My story](blog.md)
-
-[Back to MYNVENTORY](README.md)
-
-### MYNVENTORY at a glance
+## MYNVENTORY at a glance
 
 ![Belongings, documents, value and dates with clear expectations](trust/app-at-a-glance.svg)
 
@@ -134,53 +102,11 @@ The app story is easiest to understand through the item, its information and the
 
 <a id="trust"></a>
 
-### Internal testing and developer review
+## Internal testing and developer review
 
 ![Visual checkbox recap of developer-confirmed internal testing and review](trust/trust-evidence-recap.svg)
 
-[Supporting trust page](trust-details.md) · [Individual confirmations and comments](control-details.md)
-
-# Sources and review context
-
-These references explain the policy and governance context. They do not certify MYNVENTORY.
-
-## App-specific confirmation
-
-Emanuele Mendola confirms internal testing and developer review on 18 October 2026. [Read the scope and comments](trust-details.md).
-
-## From the creator
-
-The MYNVENTORY LinkedIn post will be linked here after publication. In the meantime, read [Building my next chapter](blog.md).
-
-## Policies and reference frameworks
-
-### [Google Play User Data policy](https://support.google.com/googleplay/android-developer/answer/10144311?hl=en)
-
-Privacy disclosures must reflect data access, collection, use and sharing, including third-party code.
-
-### [Google Play Data safety guidance](https://support.google.com/googleplay/android-developer/answer/10787469?hl=en)
-
-Data safety declarations explain app data practices.
-
-### [Android privacy checklist](https://developer.android.com/privacy-and-security/about)
-
-Android privacy review considerations.
-
-### [OWASP MASVS](https://mas.owasp.org/MASVS/)
-
-Mobile app security review framework; not evidence of app conformity.
-
-### [OWASP assessment and certification](https://mas.owasp.org/MASVS/04-Assessment_and_Certification/)
-
-Automated tools alone cannot complete MASVS verification.
-
-### [ISO/IEC 42001](https://www.iso.org/standard/42001)
-
-Organizational AI management system standard, not a product certification claim.
-
-[Product context](product-details.md) · [Visual explanation](visual-guide.md) · [Author story](blog.md)
-
-[Back to MYNVENTORY](README.md)
+[Review scope](trust-details.md) · [Individual confirmations](control-details.md) · [Sources and reference frameworks](sources.md)
 
 ## Download MYNVENTORY
 
