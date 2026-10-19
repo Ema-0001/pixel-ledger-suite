@@ -12,6 +12,6 @@ It confirms internal testing and developer review. It does not assert a specific
 
 For app information, see the [ownership views](product-details.md). For the frameworks referenced here, see [the supporting sources](sources.md).
 
-[Leave review comments](README.md#submit) · [Back to MYNVENTORY](README.md)
+[Back to MYNVENTORY](README.md)
 
 [Back to MYNVENTORY](README.md) · [Google Play for Android](https://play.google.com/store/apps/details?id=cz.prazskyridic.mynventory)
