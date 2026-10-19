@@ -38,6 +38,6 @@ Organizational AI management system standard, not a product certification claim.
 
 [Product context](product-details.md) · [Visual explanation](visual-guide.md) · [Author story](blog.md)
 
-[Leave review comments](README.md#submit) · [Back to MYNVENTORY](README.md)
+[Back to MYNVENTORY](README.md)
 
 [Back to MYNVENTORY](README.md) · [Google Play for Android](https://play.google.com/store/apps/details?id=cz.prazskyridic.mynventory)
