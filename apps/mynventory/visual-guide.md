@@ -14,6 +14,6 @@ The app story is easiest to understand through the item, its information and the
 
 [Internal testing and developer review](trust-details.md) · [My story](blog.md)
 
-[Leave review comments](README.md#submit) · [Back to MYNVENTORY](README.md)
+[Back to MYNVENTORY](README.md)
 
 [Back to MYNVENTORY](README.md) · [Google Play for Android](https://play.google.com/store/apps/details?id=cz.prazskyridic.mynventory)
