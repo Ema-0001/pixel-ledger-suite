@@ -12,6 +12,8 @@ The story behind what you own: belongings, their value, their documents and the 
 
 [My story](blog.md) · [Product views](product-details.md) · [Visual guide](visual-guide.md) · [Developer review](trust-details.md) · [Confirmations](control-details.md) · [Sources](sources.md)
 
+<a id="visual-01"></a>
+
 01 / MYNVENTORY
 
 ## A clearer view of what you own.
@@ -19,6 +21,8 @@ The story behind what you own: belongings, their value, their documents and the 
 The ownership overview brings items, value and protection into one view.
 
 [![MYNVENTORY store graphic: A clearer view of what you own.](assets/play-store/01-home.png)](assets/play-store/01-home.png)
+
+<a id="visual-02"></a>
 
 02 / MYNVENTORY
 
@@ -28,6 +32,8 @@ A visual inventory gives each item a recognisable place.
 
 [![MYNVENTORY store graphic: Start with the belonging.](assets/play-store/02-inventory.png)](assets/play-store/02-inventory.png)
 
+<a id="visual-03"></a>
+
 03 / MYNVENTORY
 
 ## Keep value in context.
@@ -35,6 +41,8 @@ A visual inventory gives each item a recognisable place.
 Explore the item details and value view shown in the store artwork.
 
 [![MYNVENTORY store graphic: Keep value in context.](assets/play-store/03-value.png)](assets/play-store/03-value.png)
+
+<a id="visual-04"></a>
 
 04 / MYNVENTORY
 
@@ -44,6 +52,8 @@ Receipts and supporting documents belong in the ownership story.
 
 [![MYNVENTORY store graphic: Keep the proof close.](assets/play-store/04-documents.png)](assets/play-store/04-documents.png)
 
+<a id="visual-05"></a>
+
 05 / MYNVENTORY
 
 ## Give important dates a place.
@@ -51,6 +61,8 @@ Receipts and supporting documents belong in the ownership story.
 Dates and warranties bring a timeline to the things you own.
 
 [![MYNVENTORY store graphic: Give important dates a place.](assets/play-store/05-calendar.png)](assets/play-store/05-calendar.png)
+
+<a id="visual-06"></a>
 
 06 / MYNVENTORY
 
@@ -94,7 +106,7 @@ For me, that is mettersi in gioco. Building my next chapter, and being willing t
 
 [Explore the ownership views](product-details.md) · [Read my internal review statement](trust-details.md)
 
-[Leave review comments](README.md#submit) · [Back to MYNVENTORY](README.md)
+[Back to MYNVENTORY](README.md)
 
 # A visual guide to ownership
 
@@ -112,13 +124,15 @@ The app story is easiest to understand through the item, its information and the
 
 [Internal testing and developer review](trust-details.md) · [My story](blog.md)
 
-[Leave review comments](README.md#submit) · [Back to MYNVENTORY](README.md)
+[Back to MYNVENTORY](README.md)
 
 ### MYNVENTORY at a glance
 
 ![Belongings, documents, value and dates with clear expectations](trust/app-at-a-glance.svg)
 
 [Explore the product views](product-details.md) · [Supporting trust details](trust-details.md)
+
+<a id="trust"></a>
 
 ### Internal testing and developer review
 
@@ -166,7 +180,7 @@ Organizational AI management system standard, not a product certification claim.
 
 [Product context](product-details.md) · [Visual explanation](visual-guide.md) · [Author story](blog.md)
 
-[Leave review comments](README.md#submit) · [Back to MYNVENTORY](README.md)
+[Back to MYNVENTORY](README.md)
 
 ## Download MYNVENTORY
 
