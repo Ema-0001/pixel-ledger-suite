@@ -8,7 +8,7 @@ Emanuele Mendola confirms internal testing and developer review on 18 October 20
 
 ## From the creator
 
-The MYNVENTORY LinkedIn post will be linked here after publication. In the meantime, read [Building my next chapter](blog.md).
+Read [Building my next chapter](blog.md).
 
 ## Policies and reference frameworks
 
@@ -37,7 +37,5 @@ Automated tools alone cannot complete MASVS verification.
 Organizational AI management system standard, not a product certification claim.
 
 [Product context](product-details.md) · [Visual explanation](visual-guide.md) · [Author story](blog.md)
-
-[Back to MYNVENTORY](README.md)
 
 [Back to MYNVENTORY](README.md) · [Google Play for Android](https://play.google.com/store/apps/details?id=cz.prazskyridic.mynventory)
