@@ -4,8 +4,6 @@
 
 Pixel Ledger brings together focused apps for different parts of everyday life. Each has a distinct purpose, with references and connections that let you bring the right tools together when useful.
 
-[Visit the Pixel Ledger website](https://pixelledger.dpdns.org)
-
 ## My story
 
 I’m Emanuele Mendola. My path has taken me through management studies at bachelor’s and master’s level, a master’s in big data management, consultancy, corporate analysis, change management and freelance work.
@@ -28,7 +26,7 @@ For me, that is mettersi in gioco. Building my next chapter.
    - [Sources and useful links](mynventory/sources.md)
    - **[Get the official MYNVENTORY app on Google Play](https://play.google.com/store/apps/details?id=cz.prazskyridic.mynventory)**
    - **Android only, for now.**
-   - [App website](https://pixelledger.dpdns.org/apps/mynventory/) · [Privacy policy](https://pixelledger.dpdns.org/privacy/mynventory/)
+   - [Privacy policy](https://pixelledger.dpdns.org/privacy/mynventory/)
 
 ---
 
