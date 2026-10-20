@@ -114,4 +114,4 @@ For me, that is mettersi in gioco. Building my next chapter, and being willing t
 
 **Android only, for now.**
 
-[App website](https://pixelledger.dpdns.org/apps/mynventory/) · [Privacy policy](https://pixelledger.dpdns.org/privacy/mynventory/)
+[Privacy policy](https://pixelledger.dpdns.org/privacy/mynventory/)
