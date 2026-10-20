@@ -1,6 +1,6 @@
 # MYNVENTORY
 
-## [Get MYNVENTORY on Google Play](https://play.google.com/store/apps/details?id=cz.prazskyridic.mynventory)
+<a href="https://play.google.com/store/apps/details?id=cz.prazskyridic.mynventory"><img src="../assets/google-play-badge.png" alt="Get MYNVENTORY on Google Play" width="180"></a>
 
 **Android only, for now.**
 
@@ -110,7 +110,7 @@ For me, that is mettersi in gioco. Building my next chapter, and being willing t
 
 ## Download MYNVENTORY
 
-[Get MYNVENTORY on Google Play](https://play.google.com/store/apps/details?id=cz.prazskyridic.mynventory)
+<a href="https://play.google.com/store/apps/details?id=cz.prazskyridic.mynventory"><img src="../assets/google-play-badge.png" alt="Get MYNVENTORY on Google Play" width="180"></a>
 
 **Android only, for now.**
 

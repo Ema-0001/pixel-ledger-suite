@@ -1,34 +1,25 @@
+<p align="center"><img src="assets/pixel-ledger-official-logo.png" alt="Pixel Ledger" width="120"></p>
+
 # Pixel Ledger
 
-## Your everyday life. Connected.
+**Your everyday life. Connected.**
 
-Pixel Ledger brings together focused apps for different parts of everyday life. Each has a distinct purpose, with references and connections that let you bring the right tools together when useful.
+Welcome to Pixel Ledger, a collection of focused apps that give the details of everyday life a private place to belong. Each app is a personal ledger for a particular need, helping you keep useful information in order, see what needs attention and make more informed decisions. Start with the app that fits your day, keep control of what you record and build a clearer picture of your own life, one useful detail at a time.
 
-## My story
+## Explore the apps
 
-I’m Emanuele Mendola. My path has taken me through management studies at bachelor’s and master’s level, a master’s in big data management, consultancy, corporate analysis, change management and freelance work.
+<table><tr><td><img src="mynventory/assets/MYNVENTORY-official.png" alt="MYNVENTORY logo" width="100"></td><td><h3>MYNVENTORY</h3><a href="mynventory/README.md"><img src="assets/explore-app.svg" alt="Explore MYNVENTORY" width="220"></a> <a href="https://play.google.com/store/apps/details?id=cz.prazskyridic.mynventory"><img src="assets/google-play-badge.png" alt="Get MYNVENTORY on Google Play" height="52"></a></td></tr></table>
 
-I have kept learning and shared that learning with colleagues along the way. With generative AI advancing so quickly, I wanted to get involved through a real project. Even the acronym is getting an upgrade: AI, SI… keeping up now includes the vocabulary.
+## Behind Pixel Ledger
 
-That brought me into building with AI/SI and into creating something tangible of my own. Pixel Ledger brings my different hats together. AI/SI helps me build; I remain responsible for what I put my name to.
+I’m Emanuele Mendola. My path has taken me through management studies, big data management, consultancy, corporate analysis, change management and freelance work.
 
-For me, that is mettersi in gioco. Building my next chapter.
+Pixel Ledger brings those experiences together through something tangible: identifying an everyday need, shaping a product around it and learning by building. AI/SI helps me build; I remain responsible for the decisions and what I put my name to.
 
-[Find me on LinkedIn](https://linkedin.com/in/emanuele-mendola-460087254)
+For me, that is *mettersi in gioco*. Building my next chapter.
 
-## App stories
-
-1. **MYNVENTORY**
-   - [The illustrated app story](mynventory/README.md)
-   - [My first-person reflection](mynventory/blog.md)
-   - [Belongings, documents, value and warranty dates](mynventory/product-details.md)
-   - [Internal testing and developer review](mynventory/trust-details.md)
-   - [Sources and useful links](mynventory/sources.md)
-   - **[Get the official MYNVENTORY app on Google Play](https://play.google.com/store/apps/details?id=cz.prazskyridic.mynventory)**
-   - **Android only, for now.**
-   - [Privacy policy](https://pixelledger.dpdns.org/privacy/mynventory/)
+<a href="https://linkedin.com/in/emanuele-mendola-460087254"><img src="assets/linkedin.svg" alt="LinkedIn" width="28"></a> [Find me on LinkedIn](https://linkedin.com/in/emanuele-mendola-460087254)
 
 ---
 
 Emanuele Mendola / Pixel Ledger
-
