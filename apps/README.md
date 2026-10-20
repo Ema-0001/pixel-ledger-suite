@@ -10,6 +10,10 @@ Welcome to Pixel Ledger, a collection of focused apps that give the details of e
 
 <table><tr><td><img src="mynventory/assets/MYNVENTORY-official.png" alt="MYNVENTORY logo" width="100"></td><td><h3>MYNVENTORY</h3><a href="mynventory/README.md"><img src="assets/explore-app.svg" alt="Explore MYNVENTORY" width="220"></a> <a href="https://play.google.com/store/apps/details?id=cz.prazskyridic.mynventory"><img src="assets/google-play-badge.png" alt="Get MYNVENTORY on Google Play" height="52"></a></td></tr></table>
 
+### More app stories coming soon
+
+More Pixel Ledger apps will be introduced here, one at a time.
+
 ## Behind Pixel Ledger
 
 I’m Emanuele Mendola. My path has taken me through management studies, big data management, consultancy, corporate analysis, change management and freelance work.
